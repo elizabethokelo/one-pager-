@@ -1,0 +1,99 @@
+.first {
+    height: 40px;
+    background-color: azure;
+    display: flex;
+}
+.firstleft {
+    height: 40px;
+    width: 50%;
+    background-color: black;
+    color: white;
+    padding-left: 2px;
+}
+.firstright {
+    height: 40px;
+    width: 50%;
+    background-color: black;
+}
+.nav {
+    background-color: black;
+    padding-left: 50px;
+    color: white;
+    cursor: pointer;
+}
+
+/* start of second div */
+.second {
+    width: 100%;
+    height: 180px;
+    background-color: black;
+    display: flex;
+    color: white;
+}
+
+/* start of third div */
+.third {
+    height: 160px;
+    background-color: black;
+    display: flex;
+}
+.thirdleft {
+    height: 160px;
+    width: 33.3%;
+    background-color:blue;
+    color: white;
+    margin-right: 25px;
+    padding-left: 0.5cm;
+}
+.thirdcenter {
+    height: 160px;
+    width: 33.3%;
+    background-color: grey;
+    color: white;
+    padding-left: 0.5cm;
+
+}
+.thirdright {
+    height: 160px;
+    width: 33.3%;
+    background-color: grey;
+    color: white;
+    margin-left: 25px;
+    padding-left: 0.5cm;
+
+}
+/* start of fourth div */
+.fourth {
+    height: 160px;
+    background-color: black;
+    display: flex;
+    color: white;
+}
+.text {
+    text-align: center;
+    font-size:large;
+    padding-left: 10cm;
+    padding-top: 1cm;
+}
+/* start of fifth div */
+.fifth {
+    height: 30px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    padding-left: 16cm;
+}
+.button {
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+    font-size: medium;
+    padding-bottom: 0.5cm;
+    border-collapse: collapse;
+    border: solid blue;
+    cursor: pointer;
+    
+}
+body{
+    background-color: black;
+}
